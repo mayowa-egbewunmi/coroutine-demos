@@ -1,4 +1,4 @@
-package com.mayowa.coroutines.basics
+package com.mayowa.coroutines.samples
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
