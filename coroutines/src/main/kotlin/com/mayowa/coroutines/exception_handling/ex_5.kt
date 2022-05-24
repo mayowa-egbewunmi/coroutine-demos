@@ -10,8 +10,8 @@ import java.lang.IllegalArgumentException
  *
  * 2. Coroutine Exception Handler cannot be used for recovery while Try/Catch can be used for Recovery
  *
- * 3. Use Coroutine Exception Handler for exception logging and showing generic error message, use Try/Catch for retry operations, fallback operations
- *
+ * 3. Use Coroutine Exception Handler for exception logging and showing generic error message,
+ * use Try/Catch for retry operations, fallback operations
  */
 
 fun main() {
